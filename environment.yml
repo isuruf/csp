@@ -1,0 +1,23 @@
+name: csp-dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - libabseil
+  - libarrow=15
+  - libparquet=15
+  - brotli
+  - exprtk
+  - gtest
+  - librdkafka
+  - lz4
+  - protobuf
+  - rapidjson
+  - thrift
+  - libevent
+  - libutf8proc
+  - ruamel.yaml
+  - numpy
+  - python
+  - scikit-build
+  - compilers
